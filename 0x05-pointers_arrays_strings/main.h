@@ -3,7 +3,6 @@
 
 #include <stdio.h>
 
-int _putchar;
 int _putchar(char c);
 void reset_to_98(int *n);
 void sawp_int(int *a, int *b);
