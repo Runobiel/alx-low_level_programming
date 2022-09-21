@@ -2,8 +2,8 @@
 
 /**
  * puts2 - entry point
+ *
  * Description: prints every other char of a str, starting with the first
- * 
  * @str: char will be printed from this.
  *
  * Returns: no return value
