@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _puts- entry point
+ * _puts - entry point
  * @str: string to be printed
  *
  * Description- prints a string, followed by a new line to stdout
