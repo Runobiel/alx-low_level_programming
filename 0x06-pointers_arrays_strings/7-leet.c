@@ -3,7 +3,7 @@
 /**
 * leet - entry point
 *
-* Description: encodes a string into 1337
+* Description- encodes a string into 1337
 * @s: inputed string.
 *
 * Return: Pointer to dest.
