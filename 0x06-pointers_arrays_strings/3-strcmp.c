@@ -3,7 +3,7 @@
 /**
 * _strcmp - entry point
 *
-* Description: compares two strings.
+* Description- compares two strings.
 * @s1: first string to compare.
 * @s2: second string to compare.
 *
