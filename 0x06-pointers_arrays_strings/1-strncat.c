@@ -3,7 +3,7 @@
 /**
 * _strncat - entry point
 *
-* Description: concatenates two strings.
+* Description- concatenates two strings.
 * @dest: destination string.
 * @src: source string.
 * @n: amount of bytes from src.
