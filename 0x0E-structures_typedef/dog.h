@@ -5,7 +5,7 @@
 #include <stdlib.h>
 
 /**
- * struct - defines struct
+ * struct dog- defines struct
  * @name: name 
  * @age: age
  * @owner: owner
