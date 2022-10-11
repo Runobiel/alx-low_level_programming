@@ -6,7 +6,7 @@
 
 /**
  * struct dog- defines struct
- * @name: name 
+ * @name: name
  * @age: age
  * @owner: owner
  */
