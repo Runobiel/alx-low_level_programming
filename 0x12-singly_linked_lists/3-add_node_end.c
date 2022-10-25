@@ -1,9 +1,11 @@
 #include <stdlib.h>
 #include <string.h>
+
 #include "lists.h"
 
 /**
  * add_node_end - adds a new node at the end of a linked list
+
  * @head: double pointer to the list_t list
  * @str: string to put in the new node
  *
@@ -24,7 +26,8 @@ list_t *add_node_end(list_t **head, const char *str)
 
 	new->str = strdup(str);
 	new->len = len;
-	new->next = NULL;
+	new->next = NULL
+
 	if (*head == NULL)
 	{
 		*head = new;
