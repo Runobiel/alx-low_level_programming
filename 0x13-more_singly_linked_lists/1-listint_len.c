@@ -2,7 +2,6 @@
 
 /**
   * listint_len - Function that returns the number of elements in a linked list
-
   * @h: pointer
   * Return: the number of nodes
   */
