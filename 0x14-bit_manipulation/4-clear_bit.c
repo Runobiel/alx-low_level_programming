@@ -7,18 +7,17 @@
  *
  * Return: 0.
  */
-
 int clear_bit(unsigned long int *n, unsigned int index)
 {
-	unsigned long int j;
+	unsigned int m;
 
-	if (n == NULL)
+	if (index > 63)
 		return (-1);
 
-	j = 1 << index;
+	m = 1 << index;
 
-	if ((j | *n) == *n)
-		*n = *n ^ j;
+	if (*n & m)
+		*n ^= m;
 
 	return (1);
 }
